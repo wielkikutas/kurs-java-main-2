@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/kurs-java-main/kurs-java-main.iml" filepath="$PROJECT_DIR$/kurs-java-main/kurs-java-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/kurs-java-main-2.iml" filepath="$PROJECT_DIR$/.idea/kurs-java-main-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kurs-java-main/iteracja01/lekcja03-petle/rozwiazania/rozwiazania.iml" filepath="$PROJECT_DIR$/kurs-java-main/iteracja01/lekcja03-petle/rozwiazania/rozwiazania.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kurs-java-main/iteracja01/lekcja02-instrukcje-sterujace/rozwiazania/rozwiazania1.iml" filepath="$PROJECT_DIR$/kurs-java-main/iteracja01/lekcja02-instrukcje-sterujace/rozwiazania/rozwiazania1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kurs-java-main/iteracja01/lekcja01-zmienne/rozwiazania/rozwiazania2.iml" filepath="$PROJECT_DIR$/kurs-java-main/iteracja01/lekcja01-zmienne/rozwiazania/rozwiazania2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kurs-java-main/iteracja01/lekcja04-tablice-1w/rozwiazania/rozwiazania3.iml" filepath="$PROJECT_DIR$/kurs-java-main/iteracja01/lekcja04-tablice-1w/rozwiazania/rozwiazania3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kurs-java-main/iteracja01/lekcja01-zmienne/zadania/zadania.iml" filepath="$PROJECT_DIR$/kurs-java-main/iteracja01/lekcja01-zmienne/zadania/zadania.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kurs-java-main/iteracja01/lekcja03-petle/zadania/zadania1.iml" filepath="$PROJECT_DIR$/kurs-java-main/iteracja01/lekcja03-petle/zadania/zadania1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kurs-java-main/iteracja01/lekcja02-instrukcje-sterujace/zadania/zadania2.iml" filepath="$PROJECT_DIR$/kurs-java-main/iteracja01/lekcja02-instrukcje-sterujace/zadania/zadania2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kurs-java-main/iteracja01/lekcja04-tablice-1w/zadania/zadania3.iml" filepath="$PROJECT_DIR$/kurs-java-main/iteracja01/lekcja04-tablice-1w/zadania/zadania3.iml" />
+    </modules>
+  </component>
+</project>
